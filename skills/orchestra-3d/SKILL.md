@@ -15,6 +15,14 @@ Keep intent, dimensions, assumptions, permissions, design choices, integration a
 
 If those model choices are unavailable, work inline unless another supported choice has a concrete benefit and any material cost escalation is disclosed. These are workflow limits, not guaranteed token savings.
 
+## Built-in efficiency
+
+Caveman/Ponytail principles are built in; neither plugin is required. Keep concise, readable replies and evidence-based child reports; say each fact once and link artifacts instead of pasting scripts/logs. Preserve exact dimensions, units, clearance convention, commands, uncertainty and unchecked items; expand when clarity or the user's request needs it. Do not impose a caveman dialect or claim unmeasured savings.
+
+Search specific paths/objects first, load only relevant references and batch independent reads. Reuse current evidence, inspecting changed or uncertain areas again. Reuse existing models, modifiers, parameters and installed tools before new geometry, scripts or dependencies. Make the smallest complete revision; avoid speculative variants. Use a cheap geometry preview for iteration and render final/requested views; rerender unchanged geometry only for a concrete need. Changes to mating geometry must reach dependent parts, exports and affected checks. Preserve calibration and fit parameters.
+
+Run required print checks and the smallest meaningful additional tests; stop when acceptance passes. Do not omit validation to save tokens. For a requested handoff or context limit, save project-local dimensions, assumptions, source/export paths, checks and next action; never the full chat or secrets.
+
 ## Start with evidence
 
 Inspect supplied files and existing project instructions. Discover Blender executable/version, available shell, computer-use tools and slicer; never assume this PC's paths exist elsewhere. Prefer Blender Python for reproducible modeling, then open the saved `.blend` in Blender when GUI access is available or requested. Preserve unsaved sessions; use a separate process and versioned outputs. Read [Blender workflow](references/blender.md) before modeling/export and [print checks](references/printing.md) before declaring a result printable.
