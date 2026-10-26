@@ -2,6 +2,8 @@
 
 Skill autonoma per seguire progetti di stampa 3D: brief e quote, Blender, mockup dal modello, STL, verifiche della mesh e preparazione nello slicer disponibile. Non modifica né richiede Orchestra originale. La repository si chiama `orchestra_3d`; il nome tecnico della skill è `orchestra-3d` per rispettare il validatore Codex.
 
+Include principi di efficienza ricavati da Caveman, Cavecrew e Ponytail: comunicazione compatta ma leggibile, deleghe limitate, riuso dei modelli e degli strumenti, revisioni minime complete, anteprime economiche durante l'iterazione e controlli mirati. Non richiede quei plugin. Unità, tolleranze, calibrazione e verifiche di stampa restano obbligatorie; il risparmio di token dipende dal progetto e non è una percentuale garantita.
+
 ## Installazione su un altro PC
 
 Incolla in Codex:
