@@ -2,7 +2,7 @@
 
 ## Orchestra originale
 
-Punti mantenuti: responsabilità dell'agente principale, deleghe limitate e motivate, istruzioni autonome per i figli, report compatti, nessuna sostituzione nascosta del modello principale, nessuna promessa di risparmio fisso. Rimossi dalla nuova skill i vincoli specifici del progetto PHP xprome, non pertinenti alla stampa 3D.
+Punti mantenuti: responsabilità dell'agente principale, deleghe limitate e motivate, istruzioni autonome per i figli, report compatti, nessuna sostituzione nascosta del modello principale, nessuna promessa di risparmio fisso.
 
 L'originale disciplina la collaborazione fra agenti ma non definisce un processo di modellazione o accettazione per stampa 3D. La nuova skill aggiunge scoperta degli strumenti, quote e assunzioni, riproducibilità Blender, unità esplicite, controlli sull'STL effettivamente esportato, verifica nello slicer se disponibile e consegna con stato verificabile.
 
