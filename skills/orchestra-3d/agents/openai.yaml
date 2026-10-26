@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestra 3D"
+  short_description: "Blender, mockup e STL per progetti di stampa 3D"
+  default_prompt: "Usa $orchestra-3d per seguire il mio progetto di stampa 3D dal modello alla verifica dei file."
