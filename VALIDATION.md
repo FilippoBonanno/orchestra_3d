@@ -27,3 +27,9 @@ Non eseguiti stampa fisica, slicing o installazione su un secondo PC. L'audit no
 Blender ha prodotto i file e l'anteprima in background. Il test non ha controllato la GUI. Il rendering ha segnalato un mancato salvataggio della cache thumbnail esterna al workspace, senza impedire `.blend`, STL o PNG.
 
 I test dimostrano le operazioni geometriche e i casi elencati; non garantiscono che ogni futuro progetto o versione di Blender funzioni senza ulteriori verifiche.
+
+## Integrazione efficienza Caveman/Ponytail
+
+Esaminate le installazioni Claude di Caveman (63a91ecadbf4), Cavecrew, Ponytail (4.8.4), review/compressione/statistiche e le istruzioni di verifica e diagnosi Superpowers (5.1.0). Trasferiti i principi utili, riscritti come istruzioni autonome: output essenziali con evidenze, riuso prima di creazione, scope completo, letture mirate, verifiche proporzionate, stop dopo l'accettazione e handoff compatto. Nessun hook, log Claude, provider di compressione, alias modello Claude o stima percentuale importato.
+
+Validatore skill superato dopo l'aggiornamento. Revisione comportamentale indipendente su fix locale con chiamanti condivisi, revisione di parti accoppiate con gioco radiale e richiesta di spiegazione estesa: conservati i controlli e la possibilità di espandere le risposte. La convenzione radiale/diametrale resta documentata in `references/printing.md`. Gli script geometrici non sono cambiati: non è stata ripetuta la suite Blender già eseguita. Nessun benchmark comparativo dei token eseguito.
